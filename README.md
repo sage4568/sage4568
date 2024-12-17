@@ -1,5 +1,5 @@
 Hi there! 👋  
-my name **sagal abdifatah**, a second-year computer science student passionate about creating innovative solutions through **cybersecurity**, and **software engineering**.
+my name is **sagal abdifatah**, a second-year computer science student passionate about creating innovative solutions through **cybersecurity**, and **software engineering**.
 I believe in the power of technology to solve real-world problems and make a meaningful impact.
 
 ### My Story
