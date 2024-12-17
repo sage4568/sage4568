@@ -18,6 +18,8 @@ Along the way, I developed strong skills in problem-solving, teaching, and colla
 - *Student Management System (Python):*  
   A Python-based system to manage student records, including adding, updating, and deleting information.
   This project was an excellent opportunity to practice data manipulation and file handling.
+- *Number Guessing Game (Python):*  
+  A fun and interactive game where the user guesses a randomly generated number. This project was a great way to practice logic implementation and user interaction in Python.
 
 ### Skills and Strengths:
 - *Problem-Solving:* I enjoy tackling challenges and finding efficient solutions.  
