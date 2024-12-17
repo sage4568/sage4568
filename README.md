@@ -37,6 +37,6 @@ Along the way, I developed strong skills in problem-solving, teaching, and colla
 - I thrive in collaborative environments and enjoy brainstorming innovative solutions.
 
   ### Connect With Me:
-- GitHub: [sage4568](https://github.com/sage4568/sage.git)   
+- GitHub: [sage4568](https://github.com/sage4568)   
 - Email: sagalabdifatah106@gmail.com
 
