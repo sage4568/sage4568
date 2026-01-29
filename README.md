@@ -1,5 +1,5 @@
 Hi there! 👋  
-my name is **sagal abdifatah**, a second-year computer science student passionate about creating innovative solutions through **cybersecurity**, and **software engineering**.
+my name is **sagal abdifatah**, a Third-year computer science student passionate about creating innovative solutions through **Technology**, and **AI**.
 I believe in the power of technology to solve real-world problems and make a meaningful impact.
 
 ### My Story
@@ -20,12 +20,15 @@ Along the way, I developed strong skills in problem-solving, teaching, and colla
   This project was an excellent opportunity to practice data manipulation and file handling.
 - *Number Guessing Game (Python):*  
   A fun and interactive game where the user guesses a randomly generated number. This project was a great way to practice logic implementation and user interaction in Python.
+- *School Management System(JAVA)::*
+  Built a console-based application to manage student records, including add, update, delete, search, and report card generation with grade calculation.
 
 ### Skills and Strengths:
 - *Problem-Solving:* I enjoy tackling challenges and finding efficient solutions.  
 - *Teaching:* I have a knack for explaining concepts clearly and helping others succeed.  
-- *Adaptability:* I quickly adapt to new programming languages and technologies.  
-- *Creativity:* I love generating new ideas and bringing them to life.  
+- *Adaptability/Flexibility:* Comfortable with changing priorities, remote work, and different tasks.  
+- *Creativity:* I love generating new ideas and bringing them to life.
+- *Time Management:* Can manage tasks effectively, including evening/weekend work if required.
 
 ### Goals:
 1. Build a strong foundation in **tech**.  
